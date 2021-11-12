@@ -1,0 +1,24 @@
+.btn {
+  background-color: #f2f2f2;
+  color: #292929;
+  border-radius: 50px;
+  border-style: hidden;
+}
+
+.follow-button {
+  background-color: white;
+  color: #292929;
+  border-radius: 50px;
+}
+
+a, a:hover, a:focus, a:active {
+  text-decoration: none;
+  color: inherit;
+}
+
+.tw-bt {
+  border-radius: 50px;
+  background-color: white;
+  color: black;
+}
+/*# sourceMappingURL=style.css.map */
