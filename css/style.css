@@ -17,4 +17,54 @@
   padding-right: 7rem;
   padding-top: 1rem;
 }
+
+.imgsize {
+  width: 13px;
+  height: 25px;
+}
+
+.cardsize {
+  height: 20vh;
+}
+
+.cardimg {
+  width: 100%;
+  height: 15vh;
+}
+
+.cardnoimg {
+  background-color: #f2f2f2;
+}
+
+.btncol {
+  background-color: #e7e7e7;
+}
+
+/* Librerias del Aside
+.btn{
+    background-color: rgba(242, 242, 242, 1);
+    color: rgba(41, 41, 41, 1);
+    border-radius: 50px;
+    border-style: hidden;
+}
+
+.follow-button{
+    background-color: white;
+    color: rgba(41, 41, 41, 1);
+    border-radius: 50px;
+}
+
+a, a:hover, a:focus, a:active {
+    text-decoration: none;
+    color: inherit;
+}
+
+.tw-bt{
+    border-radius: 50px;
+    background-color: white;
+    color: black;
+
+}
+
+Termina libreria del aside*/
 /*# sourceMappingURL=style.css.map */
